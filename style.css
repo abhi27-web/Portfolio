@@ -24,6 +24,11 @@
 ::-webkit-scrollbar-thumb:hover {
     background: #4070f4;
 }
+
+img {
+        
+        object-fit: cover;
+      }
 /* navbar styling */
 nav{
   background-color: #000000;
