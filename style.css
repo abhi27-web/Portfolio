@@ -330,11 +330,16 @@ section .button button:hover{
 .pr {
     width:auto;
     text-align:center;
+    padding:20px;
 }
 img {
-    max-width:auto;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
 }
- 
+
+
+
  /* My Leadership CSS */
  .leadership{
   background: #C0D7EB;
