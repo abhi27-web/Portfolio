@@ -327,6 +327,14 @@ section .button button:hover{
   text-align: center;
 }
 
+.pr {
+    width:auto;
+    text-align:center;
+    padding:20px;
+}
+img {
+    max-width:auto;
+}
  
  /* My Leadership CSS */
  .leadership{
