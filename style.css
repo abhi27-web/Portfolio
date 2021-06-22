@@ -330,7 +330,7 @@ section .button button:hover{
 .pr {
     width:auto;
     text-align:center;
-  
+    object-fit: contain;  
 } 
 
 
